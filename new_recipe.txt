@@ -1,0 +1,3 @@
+this is practice of creating new repository and commit it on the master branch
+
+finally push it my master branch
